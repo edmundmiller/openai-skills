@@ -214,6 +214,8 @@ Codex reads REDLINING.md or OOXML.md only when the user needs those features.
 
 ## Skill Creation Process
 
+When integrating a named upstream skill, inspect its actual `SKILL.md`, required resources, source, and license. Check the target host's discovery and registration interface, then integrate the package alongside existing skills when supported. Reference prose and a catalog tool are separate capabilities and do not register that skill.
+
 Skill creation involves these steps:
 
 1. Understand the skill with concrete examples
